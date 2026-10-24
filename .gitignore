@@ -33,3 +33,6 @@ terraform.rc
 
 Thumbs.db
 .DS_Store
+
+#private keys & public keys
+*.pem
